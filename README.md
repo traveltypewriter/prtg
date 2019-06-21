@@ -9,3 +9,6 @@ You can find detailed information for every sensor / tool in the [Wiki](https://
 
 ## Contribution
 I'm happy about every new idea and suggestion!
+
+## Links
+https://www.paessler.com/
